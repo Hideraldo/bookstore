@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 f6a9e42038c24e6013dc179be92f8e405b1e9dcb Hideraldo <hideraldorondon@gmail.com> 1627351259 -0300	commit (initial): initial commit
+f6a9e42038c24e6013dc179be92f8e405b1e9dcb 6c79e7be7c15e7febd27e187f0c801cd4a988223 Hideraldo <hideraldorondon@gmail.com> 1627352136 -0300	commit: angular material instalado no projeto
+6c79e7be7c15e7febd27e187f0c801cd4a988223 87de5e8fbb1b2e9f57f77f49b8b26245a2c0a857 Hideraldo <hideraldorondon@gmail.com> 1627411460 -0300	commit: home implementada com rota
+87de5e8fbb1b2e9f57f77f49b8b26245a2c0a857 808181610763e2e943ec429d6fed62ff2ce5887e Hideraldo <hideraldorondon@gmail.com> 1627669586 -0300	commit: implementação do CRUD das categorias
+808181610763e2e943ec429d6fed62ff2ce5887e 7814cf8ed6bc81d303c0c946aff1df14082217ed Hideraldo <hideraldorondon@gmail.com> 1627848716 -0300	commit: finalizando crud de livro
+7814cf8ed6bc81d303c0c946aff1df14082217ed 64d38ea94eea7d87239f2d5293f7f3a0894c5fdc Hideraldo <hideraldorondon@gmail.com> 1627858794 -0300	commit: finalizando o projeto
